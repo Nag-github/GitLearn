@@ -1,2 +1,2 @@
 Hello!
-Modified 1
+Deleted Modified 1 text
