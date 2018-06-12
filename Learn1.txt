@@ -1,2 +1,4 @@
 Hello!
 Deleted Modified 1 text
+
+Conflict 2
