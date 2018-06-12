@@ -1,8 +1,4 @@
 Hello!
 Deleted Modified 1 text
 
-<<<<<<< HEAD
-conflict 2.1
-=======
-Conflict 1.1
->>>>>>> NewBranch1
+New Branch 2 
