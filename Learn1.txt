@@ -1,4 +1,4 @@
 Hello!
 Deleted Modified 1 text
 
-Conflict 1
+Conflict 1.1
